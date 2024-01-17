@@ -1,4 +1,4 @@
-import logo from './platzi.webp';
+import logo from './panda-loading.gif';
 import './App.css';
 
 function App() {
@@ -7,19 +7,20 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edita el archivo <code>src/App.js</code> y guarda para recargar.
+         My Web, Cooming Soon...
         </p>
         <a
           className="App-link"
-          href="https://platzi.com/reactjs"
+          href="https://www.linkedin.com/in/aleehpandita/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          LinkedIn
         </a>
       </header>
     </div>
   );
 }
+
 
 export default App;
